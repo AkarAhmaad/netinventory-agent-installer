@@ -1,0 +1,1 @@
+NetInventory Agent online installer.
